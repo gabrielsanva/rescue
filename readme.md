@@ -8,4 +8,10 @@ This is a simple game where you have to rescue your friends on the ground while 
 
 ## Example
 
-![Example 1](img/e-1500.gif)
+![Example](img/e-1500.gif)
+
+## Contact (contato)
+
+- [GitHub](https://github.com/gabrielsanva)
+- [LinkedIn](https://www.linkedin.com/in/gabrielsanva/)
+- [Twitter](https://twitter.com/gabrielsanva)
