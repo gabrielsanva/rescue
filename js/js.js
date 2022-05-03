@@ -313,7 +313,7 @@ function start() {
         $("#enemy2").remove();
         $("#friend").remove();
         $("#backgroundGame").append("<div id='end'></div>");
-        $("#end").html("<h1> Game Over </h1><p>Sua pontuação foi: " + points + "</p>" + "<div id='reinicia' onClick=restart()><h3>Jogar Novamente</h3></div>");
+        $("#end").html("<h1> Game Over </h1><p>Your score: " + points + "</p>" + "<div id='reinicia' onClick=restart()><h3>Restart</h3></div>");
     }
 }
 
