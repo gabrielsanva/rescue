@@ -10,7 +10,7 @@ This is a simple game where you have to rescue your friends on the ground while 
 
 ![Example](img/e-1500.gif)
 
-## Contact (contato)
+## Contact
 
 - [GitHub](https://github.com/gabrielsanva)
 - [LinkedIn](https://www.linkedin.com/in/gabrielsanva/)
